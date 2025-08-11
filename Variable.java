@@ -13,6 +13,14 @@ public class Variable {
         int b=30;//local variable
         System.out.println("Sum=" + (a+b));
 
+        int e=20;//local varible
+        int f=30;//local variable
+        int result=e+f;
+        System.out.println("Sum="+ result);
+
+        
+
+
 
 
 
