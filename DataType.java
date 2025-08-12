@@ -2,7 +2,7 @@ public class DataType {
     public static void main(String[] args) {
         int age=10;
         float pi=3.14f;
-        char grade = 'A';
+        char grade = 'A'; 
         double d=22.45;
         boolean isPass=true;
         short f=3200;
