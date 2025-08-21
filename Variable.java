@@ -17,7 +17,17 @@ public class Variable {
         int f=30;//local variable
         int result=e+f;
         System.out.println("Sum="+ result);
+        System.out.println("Sub="+ result);
+        System.out.println("Mul="+ result);
+        System.out.println("div="+ result);
 
+
+
+
+        for (int index =result; index > 0; index--) {
+            System.out.print(index+" ");
+            
+        }
         
 
 
