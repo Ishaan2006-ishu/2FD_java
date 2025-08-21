@@ -15,19 +15,20 @@ public class Variable {
 
         int e=20;//local varible
         int f=30;//local variable
-        int result=e+f;
-        System.out.println("Sum="+ result);
-        System.out.println("Sub="+ result);
-        System.out.println("Mul="+ result);
-        System.out.println("div="+ result);
+        int result1=e+f;
+        int result2=e-f;
+        int result3=e*f;
+        int result4=e/f;
+        System.out.println("Sum="+ result1);
+        System.out.println("Sub="+ result2);
+        System.out.println("Mul="+ result3);
+        System.out.println("div="+ result4);
 
-
-
-
-        for (int index =result; index > 0; index--) {
-            System.out.print(index+" ");
+        //print reverse no
+         // for (int index =22; index > 0; index--) {
+        //     System.out.print(index+" ");
             
-        }
+        // }
         
 
 
