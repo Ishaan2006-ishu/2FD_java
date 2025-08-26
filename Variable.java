@@ -29,6 +29,8 @@ public class Variable {
         //     System.out.print(index+" ");
             
         // }
+        int z=5;
+        System.out.println(z++);
         
 
 
